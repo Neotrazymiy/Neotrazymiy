@@ -26,7 +26,7 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   
- <img src=[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/petr-matsenko-developer)>
+ <img src="[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/petr-matsenko-developer)">
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/petromatsenko)
 
