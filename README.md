@@ -51,4 +51,6 @@
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Neotrazymiy&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=neotrazymiy&show_icons=true&theme=tokyonight)
+
+![snake gif](https://github.com/Neotrazymiy/Neotrazymiy/blob/output/github-contribution-grid-snake.svg)
