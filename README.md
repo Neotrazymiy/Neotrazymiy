@@ -44,7 +44,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,mysql,postman,git,aws,kubernetes" />
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neotrazymiy&show_icons=true&locale=en&layout=compact" alt="neotrazymiy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neotrazymiy&show_icons=true&locale=en" alt="neotrazymiy" /></p>
