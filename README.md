@@ -26,6 +26,11 @@
 
 [![GitLab](https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab)](https://gitlab.com/https://git.foxminded.ua/foxstudent107709)
 
+## 🌍 Languages
+
+- 🇺🇦 Ukrainian — Native
+- 🇬🇧 English — Intermediate
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
