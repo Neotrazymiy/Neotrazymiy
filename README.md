@@ -29,7 +29,7 @@
 ## 🌍 Languages
 
 - 🇺🇦 Ukrainian — Native
-- 🇬🇧 English — Intermediate
+- 🇬🇧 English — Pre-intermediate
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
