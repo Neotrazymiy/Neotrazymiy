@@ -3,7 +3,7 @@
 
 <h3 align="center">Java
   <img align="center"
-    src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer;NestJS+Developer&height=25"
+    src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer;NestJS+Developer&height=20"
     style="vertical-align: middle;"
 />from Ukraine 🇺🇦</h3>
 
