@@ -18,21 +18,18 @@
 
 - ⚡ Fun fact: I’m passionate about IT, healthy lifestyle, electric guitar, and motorcycles.
 
-## 🌐 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/petr-matsenko-developer)
-
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/petromatsenko)
-
-[![GitLab](https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab)](https://gitlab.com/https://git.foxminded.ua/foxstudent107709)
-
 ## 🌍 Languages
 
 - 🇺🇦 Ukrainian — Native
 - 🇬🇧 English — Pre-intermediate
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/petr-matsenko-developer)
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/petromatsenko)
+
+[![GitLab](https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab)](https://gitlab.com/https://git.foxminded.ua/foxstudent107709)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
