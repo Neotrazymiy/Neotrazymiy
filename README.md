@@ -1,10 +1,9 @@
 <h1 align="center">Neotrazymiy</h1>
-<h3 align="center">Java <h3>
-    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer;NestJS+Developer" />
-  </a> </h3>
-    from Ukraine
-</h3> 
+<h3 align="center">
+  Java 
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer;NestJS+Developer&height=25" />
+  from Ukraine 🇺🇦
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neotrazymiy&label=Profile%20views&color=0e75b6&style=flat" alt="neotrazymiy" /> </p>
 
