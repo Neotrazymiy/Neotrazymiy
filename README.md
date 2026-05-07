@@ -47,7 +47,7 @@
 <h3>🛠 Languages and Tools:</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,mysql,postman,swagger,git,aws,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,mysql,postman,git,aws,kubernetes" />
 </p>
 
 
