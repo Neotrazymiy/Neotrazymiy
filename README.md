@@ -1,11 +1,19 @@
 <h1 align="center">Neotrazymiy</h1>
 
+<p align="center">
+  <span style="font-size: 24px; font-weight: bold;">
+    Java
+  </span>
 
-<h3 align="center">Java
-  <img align="center"
-    src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer;NestJS+Developer&height=20"
+  <img
+    src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer;NestJS+Developer&height=30"
     style="vertical-align: middle;"
-/>from Ukraine 🇺🇦</h3>
+  />
+
+  <span style="font-size: 24px; font-weight: bold;">
+    from Ukraine 🇺🇦
+  </span>
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neotrazymiy&label=Profile%20views&color=0e75b6&style=flat" alt="neotrazymiy" /> </p>
