@@ -1,8 +1,8 @@
 <h1 align="center">Neotrazymiy</h1>
-<h3 >Java 
+<h3 align="center">Java <h3>
     <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer;NestJS+Developer" />
-  </a> 
+  </a> </h3>
     from Ukraine
 </h3> 
 
