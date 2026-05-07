@@ -23,14 +23,20 @@
 - 🇺🇦 Ukrainian — Native
 - 🇬🇧 English — Pre-intermediate
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/petr-matsenko-developer)
+<h3>🌐 Connect with me:</h3>
 
- [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/petromatsenko)
+<p>
+  <a href="https://t.me/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 
-[![GitLab](https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab)](https://gitlab.com/https://git.foxminded.ua/foxstudent107709)
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://git.foxminded.ua/foxstudent107709" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  </a>
 </p>
 
 <h3>🛠 Languages and Tools:</h3>
