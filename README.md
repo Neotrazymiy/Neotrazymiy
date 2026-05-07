@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neotrazymiy" alt="neotrazymiy" /></a> </p>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer;NestJS+Developer)](https://git.io/typing-svg)
 - 👯 I’m looking to collaboraI’m looking to collaborate on scalable backend systems, REST APIs, and modern web applications.te on **I’m looking to collaborate on scalable backend systems, REST APIs, and modern web applications.**
 
 -🌱 I am currently learning and practising Hibernate in depth.
