@@ -1,9 +1,9 @@
 <h1 align="center">Neotrazymiy</h1>
 
-<h3 align="center">Java<span style="font-size: 24px; font-weight: bold;"><img
-    src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer;NestJS+Developer&height=30"
+<h3 align="center"><img
+    src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+Backend+Developer+From+Ukraine&height=30"
     style="vertical-align: middle;"
-  /></span>from Ukraine 🇺🇦
+  />
 </h3>
 
 
