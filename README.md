@@ -26,9 +26,9 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   
- <img src="[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/petr-matsenko-developer)">
+ <img src="[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/petr-matsenko-developer)"/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/petromatsenko)
+ <img src="[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/petromatsenko)"/>
 
 [![GitLab](https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab)](https://gitlab.com/https://git.foxminded.ua/foxstudent107709)
 </p>
