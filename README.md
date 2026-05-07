@@ -44,3 +44,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,mysql,postman,git,aws,kubernetes" />
 </p>
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=tokyonight)
