@@ -5,13 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neotrazymiy" alt="neotrazymiy" /></a> </p>
 
-- 🔭 I’m currently working on **q**
-
-- 🌱 I’m currently learning **q**
 
 - 👯 I’m looking to collaboraI’m looking to collaborate on scalable backend systems, REST APIs, and modern web applications.te on **I’m looking to collaborate on scalable backend systems, REST APIs, and modern web applications.**
-
-- 🤝 I’m looking for help with **q**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Neotrazymiy](https://github.com/Neotrazymiy)
 
