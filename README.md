@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Neotrazymiy&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Neotrazymiy&theme=tokyonight)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,docker,postgres)](https://skillicons.dev)
