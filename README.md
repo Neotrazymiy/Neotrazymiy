@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://streak-stats.demolab.com?user=Neotrazymiy&theme=tokyonight)
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,docker,postgres)](https://skillicons.dev)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/username)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer;NestJS+Developer)](https://git.io/typing-svg)
