@@ -8,9 +8,23 @@
 
 - 👯 I’m looking to collaboraI’m looking to collaborate on scalable backend systems, REST APIs, and modern web applications.te on **I’m looking to collaborate on scalable backend systems, REST APIs, and modern web applications.**
 
+-🌱 I am currently learning and practising Hibernate in depth.
+
 - 👨‍💻 All of my projects are available at [https://github.com/Neotrazymiy](https://github.com/Neotrazymiy)
 
 - 💬 Ask me about **🚀 Ask me about backend architecture, APIs, and modern web development.**
+
+- 📫 How to reach me: ebatgibshik@gmil.com
+
+- ⚡ Fun fact: I’m passionate about IT, healthy lifestyle, electric guitar, and motorcycles.
+
+## 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/petr-matsenko-developer)
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/petromatsenko)
+
+[![GitLab](https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab)](https://gitlab.com/https://git.foxminded.ua/foxstudent107709)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
