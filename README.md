@@ -1,5 +1,5 @@
 <h1 align="center">Neotrazymiy</h1>
-<h3 align="center">Java backend developer from Ukraine</h3>
+<h3 align="center">Java [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer;NestJS+Developer)](https://git.io/typing-svg) from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neotrazymiy&label=Profile%20views&color=0e75b6&style=flat" alt="neotrazymiy" /> </p>
 
@@ -46,5 +46,3 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Neotrazymiy&show_icons=true&theme=tokyonight)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer;NestJS+Developer)](https://git.io/typing-svg)
