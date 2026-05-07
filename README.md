@@ -36,7 +36,7 @@
 <h3>🛠 Languages and Tools:</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,java,kubernetes,mysql,postgres,postman,spring" />
+  <img src="https://skillicons.dev/icons?i=java,spring,spring boot,docker,postgres,mysql,postman,git,aws,kubernetes" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neotrazymiy&show_icons=true&locale=en&layout=compact" alt="neotrazymiy" /></p>
