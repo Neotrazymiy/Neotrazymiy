@@ -12,10 +12,6 @@
 
 - 💬 Ask me about **🚀 Ask me about backend architecture, APIs, and modern web development.**
 
-- 📫 How to reach me **ebatgibshik@gmail.com**
-
-- ⚡ Fun fact **qweqqvcqcqw**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
