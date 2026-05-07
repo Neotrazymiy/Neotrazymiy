@@ -1,10 +1,10 @@
 <h1 align="center">Neotrazymiy</h1>
 
-<p align="center">Java<span style="font-size: 24px; font-weight: bold;"><img
+<h3 align="center">Java<span style="font-size: 24px; font-weight: bold;"><img
     src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer;NestJS+Developer&height=30"
     style="vertical-align: middle;"
   /></span>from Ukraine 🇺🇦
-</p>
+</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neotrazymiy&label=Profile%20views&color=0e75b6&style=flat" alt="neotrazymiy" /> </p>
