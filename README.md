@@ -51,6 +51,16 @@
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=neotrazymiy&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Neotrazymiy&show_icons=true&theme=tokyonight)
 
-![snake gif](https://github.com/Neotrazymiy/Neotrazymiy/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neotrazymiy&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neotrazymiy&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Neotrazymiy&theme=tokyonight" />
+</p>
